@@ -92,6 +92,8 @@ This closes #123
 
 ## Pull Requests
 
+![](resources/pull-request.png)
+
 Contributors should utilize pull requests to merge all new code to master. This gives all contributors a chance to review new code, discuss problems and solutions, and test the feature, before broken code potentially gets shipped to production code. Pull requests also help maintain a history of the changes made to the project as well as the reasoning behind them, which can be useful to future contributors to the project.
 
 Pull requests should engage multiple team members so more ideas and knowledge about the codebase are shared - Github has some great tools for doing [code reviews](https://help.github.com/articles/about-pull-request-reviews/) and encouraging conversation within your code through [inline comments](https://help.github.com/articles/commenting-on-a-pull-request/#adding-line-comments-to-a-pull-request).
