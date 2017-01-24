@@ -5,7 +5,7 @@
 2. [Issues](#issues)
 3. [Branching](#branching)
 4. [Commits](#commits)
-5. [Pull Requests](#foo-requests)
+5. [Pull Requests](#pull-requests)
 6. [Example Workflow](#example-workflow)
 7. [Resources](#resources)
 
