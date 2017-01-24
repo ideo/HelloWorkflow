@@ -18,11 +18,15 @@ This document assumes a basic knowledge of Git. Though, an excellent resource fo
 
 ## Issues
 
+![](resources/issues.png)
+
 Github issues are an excellent foundation for a collaborative workflow. Not only are they a great way to keep track of bugs, they should also be used for recommending improvements and new features. Once an issue is opened and discussed it should be labeled assigned to a project contributor.
 
 ### Labels
 
 Labels are a way to categorize your issues. A great use of labels is to assign priority to a certain task (ex: Blocking, High, Med, Low). You can also use labels to tag issues as bug fixes or new features. Classifying your issues in this way makes them easy to filter and search.
+
+![](resources/new-issue.png)
 
 ### Milestones
 
@@ -42,7 +46,7 @@ The `master` branch should reflect code currently running in production and shou
 
 ### Branch Naming Conventions
 
-Branches should have descriptive names in order to easily identify what work is being done there. For instance, namespacing a feature branch `feature/feature-name` or a bug fix `bugfix/description` or `bugfix/issue-number` provides a glanceable view into work happening in the codebase.
+Branches should have descriptive names in order to easily identify what work is being done there. For instance, namespacing a feature branch `feature/feature-name` or a bug fix `fix/description` or `fix/issue-number` provides a glanceable view into work happening in the codebase.
 
 
 ## Commits
