@@ -72,7 +72,7 @@ This closes #123
 **Best Practices:**
 
 * Write a present-tense, concise summary line in an imperative style (describe what the commit does, not what you did)
-	- A properly formed commit summary should complete this sentence: _If applied, this commit will **[your subject line]**_
+	- A properly formed commit summary should complete this sentence: <br/>_If applied, this commit will **[your subject line]**_
 	- :thumbsup: - `Add a feature` or `Fix evil bug` or `Enable foo`
 	- :thumbsdown: - `Added a feature` or `Fixed evil bug` or `Misc stuff`
 * Leave the second line blank
