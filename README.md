@@ -48,6 +48,8 @@ The `master` branch should reflect code currently running in production and shou
 
 Branches should have descriptive names in order to easily identify what work is being done there. For instance, namespacing a feature branch `feature/feature-name` or a bug fix `fix/description` or `fix/issue-number` provides a glanceable view into work happening in the codebase.
 
+![](resources/feature-branch.png)
+
 
 ## Commits
 
