@@ -113,8 +113,9 @@ Once a pull request is successfully merged to master the associated branch shoul
 6. If everything looks good (format, tests pass, etc.), project maintainer merges code to master.
 
 ## Resources
-
-* [Pro Git Book](https://git-scm.com/book/en/) - learn everything git can do. 
+* [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/) - "just a simple guide for getting started with git. no deep shit ;)" Perfect for colleagues new to using git with little or no programming experience!
+* [Pro Git Book](https://git-scm.com/book/en/) - learn everything git can do.
 * [Try Github](https://try.github.io) - interactive git / github lesson to cover the basics.
+* [Atlassian Git Syncing](https://www.atlassian.com/git/tutorials/syncing) and [Collaboration workflows and tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows) - Very helpful visual step-by-step guides of the most common git activities and collaborative workflows.
 * [Atlassian Feature Branching](http://blogs.atlassian.com/2013/10/inside-atlassian-feature-branching-on-the-stash-team/) - how and why Atlassian uses the feature branch workflow.
 
